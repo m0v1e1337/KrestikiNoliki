@@ -1,0 +1,21 @@
+﻿<Window x:Class="KrestikiNoliki.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KrestikiNoliki"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="423" Width="615">
+    <Grid HorizontalAlignment="Left" Width="623" Margin="-105,0,0,4">
+        <Button x:Name="Knopka1" Content="" HorizontalAlignment="Left" Height="86" Margin="244,33,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click"/>
+        <Button x:Name="Knopka2" Content="" HorizontalAlignment="Left" Height="86" Margin="358,33,0,0" VerticalAlignment="Top" Width="76" AutomationProperties.IsColumnHeader="True" Click="Button_Click"/>
+        <Button x:Name="Knopka3" Content="" HorizontalAlignment="Left" Height="86" Margin="477,33,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click"/>
+        <Button x:Name="Knopka4" Content="" HorizontalAlignment="Left" Height="86" Margin="244,149,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click"/>
+        <Button x:Name="Knopka5" Content="" HorizontalAlignment="Left" Height="86" Margin="358,149,0,0" VerticalAlignment="Top" Width="76" RenderTransformOrigin="1.223,0.672" Click="Button_Click"/>
+        <Button x:Name="Knopka6" Content="" HorizontalAlignment="Left" Height="86" Margin="477,149,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click"/>
+        <Button x:Name="Knopka7" Content="" HorizontalAlignment="Left" Height="86" Margin="244,270,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click"/>
+        <Button x:Name="Knopka8" Content="" HorizontalAlignment="Left" Height="86" Margin="358,270,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click"/>
+        <Button x:Name="Knopka9" Content="" HorizontalAlignment="Left" Height="86" Margin="477,270,0,0" VerticalAlignment="Top" Width="76" Click="Button_Click"/>
+
+    </Grid>
+</Window>
